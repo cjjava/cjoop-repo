@@ -1,0 +1,18 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jun 09 16:29:04 CST 2015
+http\://192.168.0.2\:81/nexus/content/groups/public/.error=
+http\://192.168.0.2\:81/nexus/content/groups/public/.lastUpdated=1433471155575
+http\://repository.springsource.com/maven/libraries/release/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1433471156680
+http\://repository.springsource.com/maven/bundles/release/.error=
+http\://repo.spring.io/release/.error=
+http\://repository.springsource.com/maven/bundles/external/.error=
+http\://repository.springsource.com/maven/bundles/snapshot/.error=
+http\://repo.maven.apache.org/maven2/.error=
+http\://repo.spring.io/release/.lastUpdated=1433471156193
+http\://repository.springsource.com/maven/bundles/snapshot/.lastUpdated=1433838541817
+http\://repository.springsource.com/maven/bundles/external/.lastUpdated=1433838543109
+http\://repository.springsource.com/maven/bundles/milestone/.error=
+http\://repository.springsource.com/maven/bundles/milestone/.lastUpdated=1433838543698
+http\://repository.springsource.com/maven/bundles/release/.lastUpdated=1433838542460
+http\://repository.springsource.com/maven/libraries/release/.lastUpdated=1433838544299

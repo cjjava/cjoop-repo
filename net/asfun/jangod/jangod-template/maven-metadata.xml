@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.asfun.jangod</groupId>
+  <artifactId>jangod-template</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20150819101101</lastUpdated>
+  </versioning>
+</metadata>
